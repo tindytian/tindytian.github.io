@@ -4,27 +4,29 @@
 
     
   <url>
-    <loc>http://www.tiantao.win/2016/08/16/codingPage/</loc>
-    <lastmod>2016-08-16T15:52:21.051Z</lastmod>
+    <loc>http://www.tiantao.win/2016/08/17/clipboarddata/</loc>
+    <lastmod>2016-08-17T15:10:53.308Z</lastmod>
     <data>
         <display>
-        <title>codingPage</title>
-        <pubTime>2016-08-16T15:52:21.000Z</pubTime>
+        <title>利用 ClipboardData 在网页上粘贴 QQ 截图</title>
+        <pubTime>2016-08-17T12:49:17.000Z</pubTime>
         
+        <tag>javascript</tag>
+         
          
            
+             
+              <breadCrumb title="前端" url="http://www.tiantao.win/categories/%E5%89%8D%E7%AB%AF/"/>
+          
         </display>
     </data>
     </url>
 
     
     
-    
-    
-    
   <url>
     <loc>http://www.tiantao.win/2016/08/09/hello-world/</loc>
-    <lastmod>2016-07-23T06:57:37.955Z</lastmod>
+    <lastmod>2016-08-17T12:54:51.885Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
@@ -32,15 +34,17 @@
         
         <tag>test</tag>
          
-        <tag>标签n</tag>
-         
          
            
              
-              <breadCrumb title="编程" url="http://www.tiantao.win/categories/programming/"/>
+              <breadCrumb title="前端" url="http://www.tiantao.win/categories/%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
     </url>
 
+    
+    
+    
+    
 </urlset>
